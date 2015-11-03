@@ -1,1 +1,2 @@
 This is a django tutorial project
+花了一段时间阅读Django官网的Tutorial,严格按照教程做出来的一个简单的Django应用,包含polls应用
